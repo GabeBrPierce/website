@@ -1,0 +1,44 @@
+
+.nav-color {
+    background-color: black;
+}
+.nav-link {
+    background-color: #343a40;
+}
+
+.nav-item .nav-link {
+    padding-top: auto;
+    padding-bottom: auto;
+}
+
+.styles-bigger-icon {
+    font-size: 2em;
+}
+
+.clipboard-button:hover {
+    background-color: grey;
+}
+
+.gabe-is {
+    font-family: 'monoco', 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.mono-heading {
+    font-family: 'monoco', 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.jumbotron-size {
+    height: 12em;
+}
+
+.jumbotron-text {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.gabes_icon {
+    height: 2em;
+    padding-right: 1em;
+}
+
